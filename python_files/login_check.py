@@ -87,8 +87,8 @@ def username_password_check(connection,role,username11,password11):
     
 """
 role_ch="Doctor"
-username_ch="pavanyendluri588"
-password_ch="Pavan@99499"
+username_ch=""
+password_ch=""
 
 ch1 = username_password_check(mydb,role_ch,username_ch,password_ch)
 if ch1 == 'true':
