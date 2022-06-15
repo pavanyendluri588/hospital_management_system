@@ -83,3 +83,4 @@ def destroy_frame_view3():
     frame_view4.pack(ipadx=670,ipady=250,side='top')
 
 label1.config(command=destroy_frame_view3)
+root1.mainloop()
